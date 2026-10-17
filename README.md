@@ -1,77 +1,74 @@
 <div align="center">
-  <h2>Hi, I'm Justine Kevin 👋</h2>
-  <p><b>Backend & Full-Stack Developer | Just vibing with code and building things that work.</b></p>
-  <p>
-    <a href="mailto:justine.kevin13@gmail.com">Email</a> · 
-    <a href="https://linkedin.com/in/justinekevin">LinkedIn</a>
-  </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <img src="assets/profile-header-light.svg" width="100%" alt="Justine Kevin M. Reyes — Backend and Full-Stack Developer. Building dependable software across APIs, data, and cloud infrastructure.">
+</picture>
+
+<br>
+
+<a href="https://github.com/kevv1011/port">Portfolio source</a> · <a href="https://www.linkedin.com/in/justinekevin/">LinkedIn</a> · <a href="mailto:justine.kevin13@gmail.com">Email</a>
+
 </div>
+
+### Hi, I'm Justine Kevin.
+
+I'm a backend and full-stack developer based in **Angeles City, Pampanga, Philippines (GMT+8)**. I enjoy tracing a problem from the interface down to the data model and infrastructure, then building the smallest reliable solution that fits. I'm open to remote and on-site opportunities.
+
+I work on offline-ready applications, APIs, relational databases, and cloud systems. My favorite kind of engineering is the kind users barely notice because it keeps working.
 
 ---
 
-## 👨‍💻 About me
+### Selected work
 
-I'm a developer who enjoys figuring out how complex systems tick. Whether it's wiring up a secure backend, experimenting with cloud infrastructure, or just tinkering until the code finally compiles, I love the process of building.
+| Project | What I built | Stack |
+| :--- | :--- | :--- |
+| **[TindahanTrack](https://github.com/kevv1011/TinadahanTrack)** | Inventory for neighborhood stores, with an offline `localStorage` fallback, optimistic stock updates, and automated deployment. | React · Express · Neon PostgreSQL · GitHub Actions |
+| **[HAUPokemon](https://github.com/kevv1011/HAUPokemon-Monster-App)** | A GPS-enabled mobile experience supported by AWS infrastructure across two regions, VPC Peering, and a MySQL data layer. | React · Capacitor · AWS EC2/RDS · MySQL |
+| **Serverless EC2 Dashboard** | A focused interface for instance state checks and start/stop actions through serverless functions. | AWS Lambda · API Gateway · EC2 · JavaScript |
 
-- **Building:** web apps, secure APIs, and tools that solve actual problems.
-- **Exploring:** AWS cloud architectures, serverless deployments, and real-time features.
-- **Vibing with:** system design, database optimization, and learning new dev workflows.
-- **Open to:** project collaborations and casual chats about tech.
+<details>
+<summary><strong>A closer look at TindahanTrack's two data paths</strong></summary>
 
-## 🛠️ Languages & Tools
+```text
+                  Stock and sales interface
+                           │
+                    Optimistic updates
+                           │
+                Connected? ──────────────┐
+                   │ yes                  │ no
+                   ▼                      ▼
+            Express REST API        Offline demo mode
+                   │                      │
+                   ▼                      ▼
+            Neon PostgreSQL         localStorage
+```
 
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
-  <img src="https://img.shields.io/badge/SymPy-3776AB?style=flat-square&logo=python&logoColor=white" alt="SymPy" />
-</p>
+The fallback keeps the demo usable when there is no network. Read the repository for implementation details.
 
-### Database & Cloud
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
-</p>
+</details>
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/Ruff-E5C07B?style=flat-square&logo=python&logoColor=white" alt="Ruff" />
-</p>
+### Tools I reach for
 
-## 🚀 Featured Projects
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · JavaScript · TypeScript · Dart · PHP · SQL · Bash |
+| **Application development** | React · FastAPI · Express · Capacitor |
+| **Data** | PostgreSQL · Neon · Supabase · MySQL |
+| **Cloud & delivery** | AWS EC2 · Lambda · API Gateway · RDS · VPC Peering · Docker · GitHub Actions · Render |
 
-### 🛒 TindahanTrack 
-*A full-stack inventory management system.*
-- **Tech:** React, Express, Neon PostgreSQL
-- **Highlights:** Engineered an offline "Demo Mode" using `localStorage` for a seamless fallback experience and automated the deployment pipeline via GitHub Actions.
+I also like working through data modeling and command-line projects, including SQL databases and shell applications. You can explore the rest in my [repositories](https://github.com/kevv1011?tab=repositories).
 
-### 👾 HAUPokemon 
-*A distributed monster tracking system.*
-- **Tech:** AWS (VPC Peering, EC2, RDS/MySQL), React, Capacitor
-- **Highlights:** Designed a secure multi-region cloud infrastructure and developed a mobile app that utilizes real-time GPS proximity tracking.
+### Currently focused on
 
-### ☁️ Serverless EC2 Dashboard
-*An automated cloud instance management tool.*
-- **Tech:** AWS Lambda, API Gateway, HTML/JS
-- **Highlights:** Built a serverless architecture integrated with a custom web interface to automate and monitor AWS EC2 instance states.
+- Making everyday workflows resilient when connectivity drops.
+- Designing clear boundaries between UI state, APIs, and persistence.
+- Learning from the practical trade-offs in cloud and multi-region systems.
 
----
+### Let's connect
 
-<div align="center">
-  <h3>🤝 Let's build something useful.</h3>
-  <p>Always open to learning together, sharing ideas, and collaborating.</p>
-  <p>Drop me a message at <a href="mailto:justine.kevin13@gmail.com">justine.kevin13@gmail.com</a>!</p>
-</div>
+If you're building something where reliability matters, I'd be glad to talk.
+
+**[justine.kevin13@gmail.com](mailto:justine.kevin13@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/justinekevin/)** · **[GitHub](https://github.com/kevv1011)**
+
+<sub>Built with Markdown, a pair of original SVGs, and a preference for useful details over noisy metrics.</sub>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Justine Kevin M. Reyes</title>
+  <desc id="desc">Backend and Full-Stack Developer. Building dependable software across APIs, data, and cloud infrastructure.</desc>
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#dce6df"/></pattern></defs>
+  <rect width="1200" height="260" rx="14" fill="#f8faf8"/>
+  <rect x="1" y="1" width="1198" height="258" rx="13" fill="none" stroke="#d5dfd8"/>
+  <rect x="2" y="2" width="1196" height="256" rx="12" fill="url(#grid)"/>
+  <path d="M44 48h36" stroke="#047857" stroke-width="3"/>
+  <text x="90" y="53" fill="#55665b" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="2">ENGINEER / BUILDER / CURIOUS HUMAN</text>
+  <text x="44" y="126" fill="#15251b" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="700" letter-spacing="-2">Justine Kevin M. Reyes</text>
+  <text x="46" y="164" fill="#34483a" font-family="Arial,Helvetica,sans-serif" font-size="20">Backend &amp; Full-Stack Developer</text>
+  <path d="M45 198h640" stroke="#d5dfd8"/>
+  <text x="46" y="225" fill="#55665b" font-family="Consolas,Menlo,monospace" font-size="14">Angeles City, Philippines  ·  GMT+8</text>
+  <rect x="813" y="41" width="337" height="177" rx="9" fill="#ffffff" stroke="#d5dfd8"/>
+  <text x="839" y="70" fill="#047857" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="1">SYSTEMS I LIKE TO BUILD</text>
+  <path d="M839 88h284M839 128h284M839 168h284" stroke="#d5dfd8"/>
+  <circle cx="850" cy="108" r="4" fill="#047857"/><circle cx="850" cy="148" r="4" fill="#047857"/><circle cx="850" cy="188" r="4" fill="#047857"/>
+  <text x="868" y="113" fill="#26382c" font-family="Arial,Helvetica,sans-serif" font-size="16">Resilient APIs</text>
+  <text x="868" y="153" fill="#26382c" font-family="Arial,Helvetica,sans-serif" font-size="16">Thoughtful data models</text>
+  <text x="868" y="193" fill="#26382c" font-family="Arial,Helvetica,sans-serif" font-size="16">Cloud infrastructure</text>
+</svg>
