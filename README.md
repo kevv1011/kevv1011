@@ -6,7 +6,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/kevv1011/port"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/portfolio.svg"><img src="assets/tiles/light/portfolio.svg" width="96" height="96" alt="Portfolio — open portfolio source"></picture></a>
+  <a href="https://kevv1011.github.io/port/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/portfolio.svg"><img src="assets/tiles/light/portfolio.svg" width="96" height="96" alt="Portfolio — view the live website"></picture></a>
   <a href="https://www.linkedin.com/in/justinekevin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/linkedin.svg"><img src="assets/tiles/light/linkedin.svg" width="96" height="96" alt="LinkedIn — view LinkedIn profile"></picture></a>
   <a href="mailto:justine.kevin13@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/email.svg"><img src="assets/tiles/light/email.svg" width="96" height="96" alt="Email — send email"></picture></a>
 </p>
@@ -183,6 +183,6 @@ Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash, React, FastAPI, Express, C
 
 Credential details are owner-supplied. Public repository statistics are a static snapshot from [GitHub's public API](https://api.github.com/users/kevv1011/repos?per_page=100) on 17 October 2026. Language bars count repositories by primary language, not code volume. Two of ten repositories report no primary language. GitHub's native contribution graph appears below this README.
 
-[Portfolio source](https://github.com/kevv1011/port) · [LinkedIn](https://www.linkedin.com/in/justinekevin/) · [Email](mailto:justine.kevin13@gmail.com)
+[View portfolio](https://kevv1011.github.io/port/) · [Portfolio source](https://github.com/kevv1011/port) · [LinkedIn](https://www.linkedin.com/in/justinekevin/) · [Email](mailto:justine.kevin13@gmail.com)
 
 </details>
