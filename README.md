@@ -5,11 +5,11 @@
   <img src="assets/editorial/light/header.svg" width="100%" alt="Justine Kevin M. Reyes — Backend and Full-Stack Developer in Angeles City, Philippines. Open to remote and on-site opportunities.">
 </picture>
 
-<div align="center">
-  <a href="https://github.com/kevv1011/port">PORTFOLIO SOURCE</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/justinekevin/">LINKEDIN</a> &nbsp; / &nbsp;
-  <a href="mailto:justine.kevin13@gmail.com">EMAIL</a>
-</div>
+<p align="center">
+  <a href="https://github.com/kevv1011/port"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/portfolio.svg"><img src="assets/tiles/light/portfolio.svg" width="96" height="96" alt="Portfolio — open portfolio source"></picture></a>
+  <a href="https://www.linkedin.com/in/justinekevin/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/linkedin.svg"><img src="assets/tiles/light/linkedin.svg" width="96" height="96" alt="LinkedIn — view LinkedIn profile"></picture></a>
+  <a href="mailto:justine.kevin13@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/email.svg"><img src="assets/tiles/light/email.svg" width="96" height="96" alt="Email — send email"></picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/about-mobile.svg">
@@ -17,6 +17,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/about.svg">
   <img src="assets/editorial/light/about.svg" width="100%" alt="01 — About: I build practical software across the interface, APIs, data, and cloud. Focused on clear interfaces and reliable foundations.">
 </picture>
+
+<p>
+  <a href="https://github.com/kevv1011?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/focus.svg"><img src="assets/tiles/light/focus.svg" width="112" height="112" alt="FOCUS: APIs · Apps, Cloud systems. Browse repositories."></picture></a>
+  <a href="https://github.com/kevv1011/TinadahanTrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/approach.svg"><img src="assets/tiles/light/approach.svg" width="112" height="112" alt="APPROACH: Clear interfaces, Reliable design. Explore a project example."></picture></a>
+  <a href="https://www.google.com/maps/search/?api=1&amp;query=Angeles+City+Pampanga+Philippines"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/location.svg"><img src="assets/tiles/light/location.svg" width="112" height="112" alt="LOCATION: Angeles City, Philippines. View city map."></picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/map-mobile.svg">
@@ -86,8 +92,60 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/stack-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/editorial/light/stack-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/stack.svg">
-  <img src="assets/editorial/light/stack.svg" width="100%" alt="06 — Toolkit: Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash; React, FastAPI, Express, Capacitor, Flutter; PostgreSQL, Neon, Supabase, MySQL; AWS, Docker, GitHub Actions, Render, pytest, and Ruff.">
+  <img src="assets/editorial/light/stack.svg" width="100%" alt="06 — Toolkit: select a technology tile to open its official website or documentation.">
 </picture>
+
+<h4>Languages</h4>
+<p>
+  <a href="https://www.python.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/python.svg"><img src="assets/tiles/light/python.svg" width="88" height="88" alt="Python — official website or documentation"></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/javascript.svg"><img src="assets/tiles/light/javascript.svg" width="88" height="88" alt="JavaScript — official website or documentation"></picture></a>
+  <a href="https://www.typescriptlang.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/typescript.svg"><img src="assets/tiles/light/typescript.svg" width="88" height="88" alt="TypeScript — official website or documentation"></picture></a>
+  <a href="https://dart.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/dart.svg"><img src="assets/tiles/light/dart.svg" width="88" height="88" alt="Dart — official website or documentation"></picture></a>
+  <a href="https://www.php.net/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/php.svg"><img src="assets/tiles/light/php.svg" width="88" height="88" alt="PHP — official website or documentation"></picture></a>
+  <a href="https://www.postgresql.org/docs/current/sql.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/sql.svg"><img src="assets/tiles/light/sql.svg" width="88" height="88" alt="SQL — official website or documentation"></picture></a>
+  <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/bash.svg"><img src="assets/tiles/light/bash.svg" width="88" height="88" alt="Bash — official website or documentation"></picture></a>
+</p>
+
+<h4>Applications</h4>
+<p>
+  <a href="https://react.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/react.svg"><img src="assets/tiles/light/react.svg" width="88" height="88" alt="React — official website or documentation"></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/fastapi.svg"><img src="assets/tiles/light/fastapi.svg" width="88" height="88" alt="FastAPI — official website or documentation"></picture></a>
+  <a href="https://expressjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/express.svg"><img src="assets/tiles/light/express.svg" width="88" height="88" alt="Express — official website or documentation"></picture></a>
+  <a href="https://capacitorjs.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/capacitor.svg"><img src="assets/tiles/light/capacitor.svg" width="88" height="88" alt="Capacitor — official website or documentation"></picture></a>
+  <a href="https://flutter.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/flutter.svg"><img src="assets/tiles/light/flutter.svg" width="88" height="88" alt="Flutter — official website or documentation"></picture></a>
+</p>
+
+<h4>Data</h4>
+<p>
+  <a href="https://www.postgresql.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/postgresql.svg"><img src="assets/tiles/light/postgresql.svg" width="88" height="88" alt="PostgreSQL — official website or documentation"></picture></a>
+  <a href="https://neon.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/neon.svg"><img src="assets/tiles/light/neon.svg" width="88" height="88" alt="Neon — official website or documentation"></picture></a>
+  <a href="https://supabase.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/supabase.svg"><img src="assets/tiles/light/supabase.svg" width="88" height="88" alt="Supabase — official website or documentation"></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/mysql.svg"><img src="assets/tiles/light/mysql.svg" width="88" height="88" alt="MySQL — official website or documentation"></picture></a>
+</p>
+
+<h4>Cloud</h4>
+<p>
+  <a href="https://aws.amazon.com/ec2/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/ec2.svg"><img src="assets/tiles/light/ec2.svg" width="88" height="88" alt="AWS EC2 — official website or documentation"></picture></a>
+  <a href="https://aws.amazon.com/lambda/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/lambda.svg"><img src="assets/tiles/light/lambda.svg" width="88" height="88" alt="Lambda — official website or documentation"></picture></a>
+  <a href="https://aws.amazon.com/api-gateway/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/gateway.svg"><img src="assets/tiles/light/gateway.svg" width="88" height="88" alt="API Gateway — official website or documentation"></picture></a>
+  <a href="https://aws.amazon.com/rds/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/rds.svg"><img src="assets/tiles/light/rds.svg" width="88" height="88" alt="RDS — official website or documentation"></picture></a>
+  <a href="https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/vpc.svg"><img src="assets/tiles/light/vpc.svg" width="88" height="88" alt="VPC Peering — official website or documentation"></picture></a>
+</p>
+
+<h4>Delivery</h4>
+<p>
+  <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/git.svg"><img src="assets/tiles/light/git.svg" width="88" height="88" alt="Git — official website or documentation"></picture></a>
+  <a href="https://github.com/features/actions"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/actions.svg"><img src="assets/tiles/light/actions.svg" width="88" height="88" alt="GitHub Actions — official website or documentation"></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/docker.svg"><img src="assets/tiles/light/docker.svg" width="88" height="88" alt="Docker — official website or documentation"></picture></a>
+  <a href="https://render.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/render.svg"><img src="assets/tiles/light/render.svg" width="88" height="88" alt="Render — official website or documentation"></picture></a>
+</p>
+
+<h4>Quality</h4>
+<p>
+  <a href="https://docs.pytest.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/pytest.svg"><img src="assets/tiles/light/pytest.svg" width="88" height="88" alt="pytest — official website or documentation"></picture></a>
+  <a href="https://docs.astral.sh/ruff/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/ruff.svg"><img src="assets/tiles/light/ruff.svg" width="88" height="88" alt="Ruff — official website or documentation"></picture></a>
+  <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/vscode.svg"><img src="assets/tiles/light/vscode.svg" width="88" height="88" alt="VS Code — official website or documentation"></picture></a>
+</p>
 
 <a href="mailto:justine.kevin13@gmail.com">
 <picture>
