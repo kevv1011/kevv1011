@@ -99,11 +99,20 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/telemetry-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/editorial/light/telemetry-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/telemetry.svg">
-  <img src="assets/editorial/light/telemetry.svg" width="100%" alt="04 — Public GitHub snapshot, 21 October 2026: 12 public repositories, 4 primary languages, joined GitHub in 2024. Repository language counts: Shell 4, JavaScript 4, TypeScript 1, HTML 1.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/status-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/editorial/light/status-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/status.svg">
+  <img src="assets/editorial/light/status.svg" width="100%" alt="04 — Repository status: public GitHub snapshot from 21 October 2026.">
 </picture>
+
+<a href="https://github.com/kevv1011?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/stats-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/editorial/light/stats-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/stats.svg">
+  <img src="assets/editorial/light/stats.svg" width="100%" alt="GitHub repository status: 12 public repositories, 4 primary languages, 1 public star. Among 10 repositories with a primary language, JavaScript and Shell account for 4 each; TypeScript and HTML account for 1 each. Browse repositories.">
+</picture>
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/journey-mobile.svg">
@@ -171,22 +180,6 @@
   <a href="https://docs.astral.sh/ruff/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/ruff.svg"><img src="assets/tiles/light/ruff.svg" width="88" height="88" alt="Ruff — official website or documentation"></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/vscode.svg"><img src="assets/tiles/light/vscode.svg" width="88" height="88" alt="VS Code — official website or documentation"></picture></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/status-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/editorial/light/status-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/status.svg">
-  <img src="assets/editorial/light/status.svg" width="100%" alt="07 — Repository status: public GitHub snapshot from 21 October 2026.">
-</picture>
-
-<a href="https://github.com/kevv1011?tab=repositories">
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/stats-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/editorial/light/stats-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/stats.svg">
-  <img src="assets/editorial/light/stats.svg" width="100%" alt="GitHub repository status: 12 public repositories, 4 primary languages, 1 public star. Among 10 repositories with a primary language, JavaScript and Shell account for 4 each; TypeScript and HTML account for 1 each. Browse repositories.">
-</picture>
-</a>
 
 <a href="mailto:justine.kevin13@gmail.com">
 <picture>
