@@ -47,7 +47,11 @@
 </picture>
 </a>
 
-<p align="center"><a href="https://echelon-cycling.vercel.app/">Open Echelon</a> · <a href="https://kevv1011.github.io/Echelon-Cycling/">Try Demo Mode without an account</a></p>
+<p align="center">
+  <a href="https://echelon-cycling.vercel.app/" aria-label="Launch the live Echelon Cycling app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/echelon-launch.svg"><img src="assets/editorial/light/echelon-launch.svg" width="270" alt="Launch Echelon live app ↗"></picture></a>
+  &nbsp;
+  <a href="https://kevv1011.github.io/Echelon-Cycling/" aria-label="Try Echelon Cycling Demo Mode without an account"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/echelon-demo.svg"><img src="assets/editorial/light/echelon-demo.svg" width="270" alt="Try Demo Mode, no account needed ↗"></picture></a>
+</p>
 
 <a href="https://github.com/kevv1011/TinadahanTrack">
 <picture>
