@@ -28,7 +28,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/map-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/editorial/light/map-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/map.svg">
-  <img src="assets/editorial/light/map.svg" width="100%" alt="02 — System map: TindahanTrack uses React, Express, and Neon; HAUPokemon uses Capacitor, EC2, and RDS; the EC2 Dashboard uses API Gateway and Lambda.">
+  <img src="assets/editorial/light/map.svg" width="100%" alt="02 — System map: TindahanTrack uses React, Express, and Neon; HAUPokemon uses Capacitor, EC2, and RDS; Echelon Cycling uses React, FastAPI, and PostgreSQL.">
 </picture>
 
 <picture>
@@ -37,6 +37,17 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/projects.svg">
   <img src="assets/editorial/light/projects.svg" width="100%" alt="03 — Selected projects. Each project graphic is a link.">
 </picture>
+
+<a href="https://github.com/kevv1011/Echelon-Cycling">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/project-echelon-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/editorial/light/project-echelon-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/project-echelon.svg">
+  <img src="assets/editorial/light/project-echelon.svg" width="100%" alt="Echelon Cycling: Mobile-first ride planning with live weather, GPS recording, mapped route comparison, and private Google accounts. React, FastAPI, PostgreSQL, Vercel, and Render. Explore repository.">
+</picture>
+</a>
+
+<p align="center"><a href="https://echelon-cycling.vercel.app/">Open Echelon</a> · <a href="https://kevv1011.github.io/Echelon-Cycling/">Try Demo Mode without an account</a></p>
 
 <a href="https://github.com/kevv1011/TinadahanTrack">
 <picture>
@@ -78,7 +89,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/telemetry-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/editorial/light/telemetry-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/telemetry.svg">
-  <img src="assets/editorial/light/telemetry.svg" width="100%" alt="04 — Public GitHub snapshot, 17 October 2026: 10 public repositories, 4 primary languages, joined GitHub in 2024. Repository language counts: Shell 4, JavaScript 2, TypeScript 1, HTML 1.">
+  <img src="assets/editorial/light/telemetry.svg" width="100%" alt="04 — Public GitHub snapshot, 21 October 2026: 11 public repositories, 4 primary languages, joined GitHub in 2024. Repository language counts: Shell 4, JavaScript 3, TypeScript 1, HTML 1.">
 </picture>
 
 <picture>
@@ -138,6 +149,7 @@
   <a href="https://github.com/features/actions"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/actions.svg"><img src="assets/tiles/light/actions.svg" width="88" height="88" alt="GitHub Actions — official website or documentation"></picture></a>
   <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/docker.svg"><img src="assets/tiles/light/docker.svg" width="88" height="88" alt="Docker — official website or documentation"></picture></a>
   <a href="https://render.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/render.svg"><img src="assets/tiles/light/render.svg" width="88" height="88" alt="Render — official website or documentation"></picture></a>
+  <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/vercel.svg"><img src="assets/tiles/light/vercel.svg" width="88" height="88" alt="Vercel — official website or documentation"></picture></a>
 </p>
 
 <h4>Quality</h4>
@@ -165,6 +177,7 @@ Backend & Full-Stack Developer based in Angeles City, Pampanga, Philippines (GMT
 
 ### Selected work
 
+- [Echelon Cycling](https://github.com/kevv1011/Echelon-Cycling): mobile-first ride planning with live weather, GPS recording, mapped route comparison, and separate rider accounts through Google sign-in. React, FastAPI, PostgreSQL, Vercel, Render. [Open the live app](https://echelon-cycling.vercel.app/) or [try Demo Mode](https://kevv1011.github.io/Echelon-Cycling/) without an account. Route suggestions use mapped road tags and are not a safety guarantee.
 - [TindahanTrack](https://github.com/kevv1011/TinadahanTrack): inventory workflows with optimistic updates, a localStorage fallback, and automated deployment. React, Express, Neon PostgreSQL, GitHub Actions.
 - [HAUPokemon](https://github.com/kevv1011/HAUPokemon-Monster-App): GPS-enabled mobile tracking supported by AWS infrastructure across Paris and N. Virginia. React, Capacitor, EC2, RDS/MySQL, VPC Peering.
 - Serverless EC2 Dashboard: instance state checks and start/stop actions with Lambda, API Gateway, EC2, and JavaScript. [Ask about the architecture](mailto:justine.kevin13@gmail.com?subject=Serverless%20EC2%20Dashboard).
@@ -172,7 +185,7 @@ Backend & Full-Stack Developer based in Angeles City, Pampanga, Philippines (GMT
 
 ### Toolkit
 
-Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash, React, FastAPI, Express, Capacitor, Flutter, PostgreSQL, Neon, Supabase, MySQL, AWS EC2, Lambda, API Gateway, RDS, VPC Peering, Git, GitHub Actions, Docker, Render, pytest, Ruff, and VS Code.
+Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash, React, FastAPI, Express, Capacitor, Flutter, PostgreSQL, Neon, Supabase, MySQL, AWS EC2, Lambda, API Gateway, RDS, VPC Peering, Git, GitHub Actions, Docker, Render, Vercel, pytest, Ruff, and VS Code.
 
 ### Learning milestones
 
@@ -181,7 +194,7 @@ Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash, React, FastAPI, Express, C
 - 2025: Endpoint Security; Cyber Threat Management.
 - 2026: AWS Academy Cloud Foundations; CCNA: Introduction to Networks; Data Analytics Essentials; AI Fundamentals with IBM SkillsBuild.
 
-Credential details are owner-supplied. Public repository statistics are a static snapshot from [GitHub's public API](https://api.github.com/users/kevv1011/repos?per_page=100) on 17 October 2026. Language bars count repositories by primary language, not code volume. Two of ten repositories report no primary language. GitHub's native contribution graph appears below this README.
+Credential details are owner-supplied. Public repository statistics are a static snapshot from [GitHub's public API](https://api.github.com/users/kevv1011/repos?per_page=100) on 21 October 2026. Language bars count repositories by primary language, not code volume. Two of eleven repositories report no primary language. GitHub's native contribution graph appears below this README.
 
 [View portfolio](https://kevv1011.github.io/port/) · [Portfolio source](https://github.com/kevv1011/port) · [LinkedIn](https://www.linkedin.com/in/justinekevin/) · [Email](mailto:justine.kevin13@gmail.com)
 
