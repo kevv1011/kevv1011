@@ -38,6 +38,15 @@
   <img src="assets/editorial/light/projects.svg" width="100%" alt="03 — Selected projects. Each project graphic is a link.">
 </picture>
 
+<a href="https://github.com/kevv1011/Runway">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/project-runway-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/editorial/light/project-runway-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/project-runway.svg">
+  <img src="assets/editorial/light/project-runway.svg" width="100%" alt="Runway: A work-in-progress web and Android wallet for tracking available money, savings, and spending. Includes a home-screen widget, privacy masking, and optional low-balance alerts. Explore repository.">
+</picture>
+</a>
+
 <a href="https://github.com/kevv1011/Echelon-Cycling">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/project-echelon-mobile.svg">
@@ -93,7 +102,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/telemetry-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/editorial/light/telemetry-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/telemetry.svg">
-  <img src="assets/editorial/light/telemetry.svg" width="100%" alt="04 — Public GitHub snapshot, 21 October 2026: 11 public repositories, 4 primary languages, joined GitHub in 2024. Repository language counts: Shell 4, JavaScript 3, TypeScript 1, HTML 1.">
+  <img src="assets/editorial/light/telemetry.svg" width="100%" alt="04 — Public GitHub snapshot, 21 October 2026: 12 public repositories, 4 primary languages, joined GitHub in 2024. Repository language counts: Shell 4, JavaScript 4, TypeScript 1, HTML 1.">
 </picture>
 
 <picture>
@@ -163,6 +172,22 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/vscode.svg"><img src="assets/tiles/light/vscode.svg" width="88" height="88" alt="VS Code — official website or documentation"></picture></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/status-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/editorial/light/status-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/status.svg">
+  <img src="assets/editorial/light/status.svg" width="100%" alt="07 — Repository status: public GitHub snapshot from 21 October 2026.">
+</picture>
+
+<a href="https://github.com/kevv1011?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/stats-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/editorial/light/stats-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/dark/stats.svg">
+  <img src="assets/editorial/light/stats.svg" width="100%" alt="GitHub repository status: 12 public repositories, 4 primary languages, 1 public star. Among 10 repositories with a primary language, JavaScript and Shell account for 4 each; TypeScript and HTML account for 1 each. Browse repositories.">
+</picture>
+</a>
+
 <a href="mailto:justine.kevin13@gmail.com">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/footer-mobile.svg">
@@ -181,6 +206,7 @@ Backend & Full-Stack Developer based in Angeles City, Pampanga, Philippines (GMT
 
 ### Selected work
 
+- [Runway](https://github.com/kevv1011/Runway): a work-in-progress web and Android wallet that separates available money from savings, records expenses, shows a weekly chart, and supports an Android home-screen widget. It stores data locally and has privacy masking and optional low-balance alerts. React, Vite, Capacitor, Android.
 - [Echelon Cycling](https://github.com/kevv1011/Echelon-Cycling): mobile-first ride planning with live weather, GPS recording, mapped route comparison, and separate rider accounts through Google sign-in. React, FastAPI, PostgreSQL, Vercel, Render. [Open the live app](https://echelon-cycling.vercel.app/) or [try Demo Mode](https://kevv1011.github.io/Echelon-Cycling/) without an account. Route suggestions use mapped road tags and are not a safety guarantee.
 - [TindahanTrack](https://github.com/kevv1011/TinadahanTrack): inventory workflows with optimistic updates, a localStorage fallback, and automated deployment. React, Express, Neon PostgreSQL, GitHub Actions.
 - [HAUPokemon](https://github.com/kevv1011/HAUPokemon-Monster-App): GPS-enabled mobile tracking supported by AWS infrastructure across Paris and N. Virginia. React, Capacitor, EC2, RDS/MySQL, VPC Peering.
@@ -198,7 +224,7 @@ Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash, React, FastAPI, Express, C
 - 2025: Endpoint Security; Cyber Threat Management.
 - 2026: AWS Academy Cloud Foundations; CCNA: Introduction to Networks; Data Analytics Essentials; AI Fundamentals with IBM SkillsBuild.
 
-Credential details are owner-supplied. Public repository statistics are a static snapshot from [GitHub's public API](https://api.github.com/users/kevv1011/repos?per_page=100) on 21 October 2026. Language bars count repositories by primary language, not code volume. Two of eleven repositories report no primary language. GitHub's native contribution graph appears below this README.
+Credential details are owner-supplied. Public repository statistics are a static snapshot from [GitHub's public API](https://api.github.com/users/kevv1011/repos?per_page=100) on 21 October 2026. Language percentages count repositories with a reported primary language, not code volume. Two of twelve repositories report no primary language. GitHub's native contribution graph appears below this README.
 
 [View portfolio](https://kevv1011.github.io/port/) · [Portfolio source](https://github.com/kevv1011/port) · [LinkedIn](https://www.linkedin.com/in/justinekevin/) · [Email](mailto:justine.kevin13@gmail.com)
 
