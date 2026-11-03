@@ -18,8 +18,8 @@
   <img src="assets/editorial/light/about.svg" width="100%" alt="01 — About: I build practical software across the interface, APIs, data, and cloud. Focused on clear interfaces and reliable foundations.">
 </picture>
 
-<p>
-  <img src="assets/about-inset.svg" width="3.8%" height="1" alt=""><a href="https://github.com/kevv1011?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/focus.svg"><img src="assets/tiles/light/focus.svg" width="112" height="112" alt="FOCUS: APIs · Apps, Cloud systems. Browse repositories."></picture></a>
+<p align="center">
+  <a href="https://github.com/kevv1011?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/focus.svg"><img src="assets/tiles/light/focus.svg" width="112" height="112" alt="FOCUS: APIs · Apps, Cloud systems. Browse repositories."></picture></a>
   <a href="https://github.com/kevv1011/TinadahanTrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/approach.svg"><img src="assets/tiles/light/approach.svg" width="112" height="112" alt="APPROACH: Clear interfaces, Reliable design. Explore a project example."></picture></a>
   <a href="https://www.google.com/maps/search/?api=1&amp;query=Angeles+City+Pampanga+Philippines"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/location.svg"><img src="assets/tiles/light/location.svg" width="112" height="112" alt="LOCATION: Angeles City, Philippines. View city map."></picture></a>
 </p>
