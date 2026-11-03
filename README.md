@@ -19,7 +19,7 @@
 </picture>
 
 <p>
-  <a href="https://github.com/kevv1011?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/focus.svg"><img src="assets/tiles/light/focus.svg" width="112" height="112" alt="FOCUS: APIs · Apps, Cloud systems. Browse repositories."></picture></a>
+  <img src="assets/about-inset.svg" width="3.8%" height="1" alt=""><a href="https://github.com/kevv1011?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/focus.svg"><img src="assets/tiles/light/focus.svg" width="112" height="112" alt="FOCUS: APIs · Apps, Cloud systems. Browse repositories."></picture></a>
   <a href="https://github.com/kevv1011/TinadahanTrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/approach.svg"><img src="assets/tiles/light/approach.svg" width="112" height="112" alt="APPROACH: Clear interfaces, Reliable design. Explore a project example."></picture></a>
   <a href="https://www.google.com/maps/search/?api=1&amp;query=Angeles+City+Pampanga+Philippines"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/dark/location.svg"><img src="assets/tiles/light/location.svg" width="112" height="112" alt="LOCATION: Angeles City, Philippines. View city map."></picture></a>
 </p>
@@ -121,6 +121,15 @@
   <img src="assets/editorial/light/journey.svg" width="100%" alt="05 — Learning milestones: CompTIA ITF+ in 2023; JavaScript and cybersecurity in 2024; endpoint security and cyber threat management in 2025; cloud, networking, analytics, and AI fundamentals in 2026.">
 </picture>
 
+<h4 align="center">2026 Academic Awards</h4>
+<p align="center">Application and System Integration<br>Holy Angel University · School of Computing<br>Instructor: Tjakoen Stolk</p>
+<p align="center">
+  <a href="https://github.com/kevv1011/port/blob/main/public/certificates/hau-full-stack-web-development-2026.png"><img src="https://raw.githubusercontent.com/kevv1011/port/main/public/certificates/hau-full-stack-web-development-2026.png" width="220" alt="Full Stack Web Development — awarded to Justine Kevin Reyes, Holy Angel University, 2026. Open full award."></a>
+  &nbsp;
+  <a href="https://github.com/kevv1011/port/blob/main/public/certificates/hau-full-stack-javascript-2026.png"><img src="https://raw.githubusercontent.com/kevv1011/port/main/public/certificates/hau-full-stack-javascript-2026.png" width="220" alt="Builds Full-Stack JavaScript and — title as printed; awarded to Justine Kevin Reyes, Holy Angel University, 2026. Open full award."></a>
+</p>
+<p align="center"><a href="https://kevv1011.github.io/port/#credentials">View all portfolio credentials</a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/editorial/dark/stack-mobile.svg">
   <source media="(max-width: 600px)" srcset="assets/editorial/light/stack-mobile.svg">
@@ -216,6 +225,7 @@ Python, JavaScript, TypeScript, Dart, PHP, SQL, Bash, React, FastAPI, Express, C
 - 2024: JavaScript Essentials 1; Introduction to Cybersecurity.
 - 2025: Endpoint Security; Cyber Threat Management.
 - 2026: AWS Academy Cloud Foundations; CCNA: Introduction to Networks; Data Analytics Essentials; AI Fundamentals with IBM SkillsBuild.
+- 2026 academic awards: [Full Stack Web Development](https://github.com/kevv1011/port/blob/main/public/certificates/hau-full-stack-web-development-2026.png) and [Builds Full-Stack JavaScript and](https://github.com/kevv1011/port/blob/main/public/certificates/hau-full-stack-javascript-2026.png), Application and System Integration, Holy Angel University School of Computing; instructor Tjakoen Stolk. Award titles are transcribed as printed.
 
 Credential details are owner-supplied. Public repository statistics are a static snapshot from [GitHub's public API](https://api.github.com/users/kevv1011/repos?per_page=100) on 21 October 2026. Language percentages count repositories with a reported primary language, not code volume. Two of twelve repositories report no primary language. GitHub's native contribution graph appears below this README.
 
